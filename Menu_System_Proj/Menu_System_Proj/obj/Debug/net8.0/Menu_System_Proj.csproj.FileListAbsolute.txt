@@ -1,0 +1,14 @@
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\bin\Debug\net8.0\Menu_System_Proj.exe
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\bin\Debug\net8.0\Menu_System_Proj.deps.json
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\bin\Debug\net8.0\Menu_System_Proj.runtimeconfig.json
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\bin\Debug\net8.0\Menu_System_Proj.dll
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\bin\Debug\net8.0\Menu_System_Proj.pdb
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.AssemblyInfo.cs
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.dll
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\refint\Menu_System_Proj.dll
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.pdb
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\Menu_System_Proj.genruntimeconfig.cache
+C:\Users\owner\source\repos\Menu_System_Proj\Menu_System_Proj\obj\Debug\net8.0\ref\Menu_System_Proj.dll
